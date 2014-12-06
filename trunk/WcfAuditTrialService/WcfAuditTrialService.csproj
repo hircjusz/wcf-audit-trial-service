@@ -71,6 +71,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Mappings\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Web.Debug.config">
