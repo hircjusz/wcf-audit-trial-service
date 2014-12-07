@@ -7,9 +7,11 @@ using NHibernate;
 
 namespace AuditTrialServer.Repositories
 {
-    public class NHibernateRepository<TEntity> where TEntity :class, IRepository<TEntity> 
+    public class NHibernateRepository<TEntity> where TEntity : class//, IRepository<TEntity> 
     {
-        ISession _session;
+        protected ISession _session;
+
+        public NHibernateRepository() { }
 
         public NHibernateRepository(ISession session)
         {
@@ -40,19 +42,19 @@ namespace AuditTrialServer.Repositories
     }
 
 
-    public interface IRepository<TEntity> where TEntity : class
-    {
+    //public interface IRepository<TEntity> where TEntity : class
+    //{
 
-        TEntity GetById(string id);
-
-
-        void Create(TEntity entity);
+    //    TEntity GetById(string id);
 
 
-        void Update(TEntity entity);
+    //    void Create(TEntity entity);
 
 
-        void Delete(TEntity entity);
+    //    void Update(TEntity entity);
 
-    }
+
+    //    void Delete(TEntity entity);
+
+    //}
 }
