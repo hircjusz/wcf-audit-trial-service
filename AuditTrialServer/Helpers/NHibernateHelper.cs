@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using AuditTrialServer.Entities;
@@ -36,12 +37,26 @@ namespace AuditTrialServer.Helpers
                               .ShowSql()
                 )
                 .Mappings(m =>
-                          m.FluentMappings
-                              .AddFromAssemblyOf<AuditTrialRecord>())
+                          m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly())
+                              )
                 .ExposeConfiguration(cfg => new SchemaUpdate(cfg)
                                                 .Execute(false, true))
                 .BuildSessionFactory();
         }
+    //    private static void InitializeSessionFactory()
+    //    {
+    //        _sessionFactory = Fluently.Configure()
+    //            .Database(
+    //  SQLiteConfiguration.Standard
+    //    .UsingFile(@"C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\dbName.sdf")
+    //)
+    //            .Mappings(m =>
+    //                      m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly())
+    //                          )
+    //            .ExposeConfiguration(cfg => new SchemaUpdate(cfg)
+    //                                            .Execute(false, true))
+    //            .BuildSessionFactory();
+    //    }
 
         public static ISession OpenSession()
         {
