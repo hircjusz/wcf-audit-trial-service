@@ -1,0 +1,15 @@
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\bin\Debug\AuditTrialServer.dll
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\bin\Debug\Iesi.Collections.dll
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\bin\Debug\NHibernate.dll
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\bin\Debug\FluentNHibernate.dll
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\bin\Debug\Iesi.Collections.xml
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\bin\Debug\NHibernate.xml
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\bin\Debug\FluentNHibernate.pdb
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\bin\Debug\FluentNHibernate.xml
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\DATA\PRIVATE\WcfAuditTrial\ConsoleApplication\bin\Debug\AuditTrialServer.pdb

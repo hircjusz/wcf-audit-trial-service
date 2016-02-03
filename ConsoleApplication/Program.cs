@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AuditTrialServer.Entities;
 using AuditTrialServer.Helpers;
 
 namespace ConsoleApplication
@@ -16,7 +17,7 @@ namespace ConsoleApplication
             {
                 using (var transaction = session.BeginTransaction())
                 {
-                    var item = new AuditTrialServer.Entities.AuditTrialRecord() {Description = "One" };
+                    var item = new AuditTrialRecord() {Description = "One" };
                     session.Save(item);
                     transaction.Commit();
                     Console.WriteLine("Department Created: " + item.Description);

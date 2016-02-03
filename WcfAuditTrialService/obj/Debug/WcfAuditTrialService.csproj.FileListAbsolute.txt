@@ -1,0 +1,5 @@
+C:\DATA\PRIVATE\WcfAuditTrial\WcfAuditTrialService\bin\WcfAuditTrialService.dll
+C:\DATA\PRIVATE\WcfAuditTrial\WcfAuditTrialService\bin\WcfAuditTrialService.pdb
+C:\DATA\PRIVATE\WcfAuditTrial\WcfAuditTrialService\obj\Debug\WcfAuditTrialService.dll
+C:\DATA\PRIVATE\WcfAuditTrial\WcfAuditTrialService\obj\Debug\WcfAuditTrialService.pdb
+C:\DATA\PRIVATE\WcfAuditTrial\WcfAuditTrialService\obj\Debug\WcfAuditTrialService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\bin\Debug\AuditTrialServer.dll
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\bin\Debug\AuditTrialServer.pdb
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\bin\Debug\FluentNHibernate.dll
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\bin\Debug\Iesi.Collections.dll
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\bin\Debug\NHibernate.dll
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\bin\Debug\NHibernate.Linq.dll
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\bin\Debug\FluentNHibernate.pdb
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\bin\Debug\FluentNHibernate.xml
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\bin\Debug\Iesi.Collections.xml
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\bin\Debug\NHibernate.xml
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\bin\Debug\NHibernate.Linq.xml
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\obj\Debug\AuditTrialServer.dll
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\obj\Debug\AuditTrialServer.pdb
+C:\DATA\PRIVATE\WcfAuditTrial\AuditTrialServer\obj\Debug\AuditTrialServer.csprojResolveAssemblyReference.cache
